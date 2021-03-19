@@ -1,0 +1,12 @@
+C:\Users\breni\source\repos\Lab4_TreeView\Lab4_TreeView\obj\Debug\Lab4_TreeView.csprojAssemblyReference.cache
+C:\Users\breni\source\repos\Lab4_TreeView\Lab4_TreeView\obj\Debug\Lab4_TreeView.Form1.resources
+C:\Users\breni\source\repos\Lab4_TreeView\Lab4_TreeView\obj\Debug\Lab4_TreeView.Properties.Resources.resources
+C:\Users\breni\source\repos\Lab4_TreeView\Lab4_TreeView\obj\Debug\Lab4_TreeView.csproj.GenerateResource.cache
+C:\Users\breni\source\repos\Lab4_TreeView\Lab4_TreeView\obj\Debug\Lab4_TreeView.csproj.CoreCompileInputs.cache
+C:\Users\breni\source\repos\Lab4_TreeView\Lab4_TreeView\bin\Debug\Lab4_TreeView.exe.config
+C:\Users\breni\source\repos\Lab4_TreeView\Lab4_TreeView\bin\Debug\Lab4_TreeView.exe
+C:\Users\breni\source\repos\Lab4_TreeView\Lab4_TreeView\bin\Debug\Lab4_TreeView.pdb
+C:\Users\breni\source\repos\Lab4_TreeView\Lab4_TreeView\obj\Debug\Lab4_TreeView.exe
+C:\Users\breni\source\repos\Lab4_TreeView\Lab4_TreeView\obj\Debug\Lab4_TreeView.pdb
+C:\Users\breni\source\repos\Lab4_TreeView\Lab4_TreeView\obj\Debug\Lab4_TreeView.AddForm.resources
+C:\Users\breni\source\repos\Lab4_TreeView\Lab4_TreeView\obj\Debug\Lab4_TreeView.EditForm.resources
